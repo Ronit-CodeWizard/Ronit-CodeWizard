@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JAVASCRIPT**
 
-- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/Ronit-CodeWizard)
+- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/Ronit-CodeWizard?tab=projects)
 
 - 📫 How to reach me **codewizard.official@gmail.com**
 
