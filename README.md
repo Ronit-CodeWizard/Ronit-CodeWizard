@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [GITHUB](https://github.com/Ronit-CodeWizard?tab=projects)
 
-- 📫 How to reach me **codewizard.official@gmail.com**
+- 📫 How to reach me **official.ronit.codewizard.@gmail.com**
 
 - ⚡ Fun fact **I think I am funny 😅**
 
