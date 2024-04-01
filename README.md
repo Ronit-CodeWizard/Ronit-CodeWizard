@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ronit Majhi</h1>
+<h1 align="center">Hi 👋, I'm CodeWizard</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronit-codewizard&label=Profile%20views&color=0e75b6&style=flat" alt="ronit-codewizard" /> </p>
 
 
-- 🔭 I’m currently working on **BUSY BRAIN COMPANY**
+- 🔭 I’m currently working on **UI tech Webpage**
 
 - 🌱 I’m currently learning **JAVASCRIPT**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/ronit_codewizard_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ronit_codewizard_" height="30" width="40" /></a>
+<a href="https://instagram.com/itz_codewizard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ronit_codewizard_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
